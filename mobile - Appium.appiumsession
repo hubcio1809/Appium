@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "Android"
+    },
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "Android Emulator"
+    },
+    {
+      "type": "text",
+      "name": "appium:automationName",
+      "value": "UiAutomator2"
+    },
+    {
+      "type": "text",
+      "name": "appium:app",
+      "value": "C:\\Users\\48799\\Desktop\\Ex_Files_Test_Automation_Python\\Python_Selenium_Appium moje\\mobile - Appium\\TheApp.apk"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "hostname": "localhost",
+      "port": "4723",
+      "path": "/"
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {},
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
